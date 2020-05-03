@@ -6,6 +6,8 @@ The ability to accurately label these locations enables numerous downstream appl
 
 Detecing facial keypoints is a very challenging problem. Computer vision research has come a long way in addressing these difficulties, but there remain many opportunities for improvement. The variability of facial features from individual to individual, the diversity in angles from which pictures are taken, and the scale of the facial image with respect to the rest of the picture are three challenges that make accurate labeling difficult in practice. 
 
-The goal of this project is develop a machine learning model to address this problem, including the state-of-the-art convolutional neural networks. We show results of our submissions on the Kaggle website. Link the (ended) competition is below:
+The goal of this project is develop a machine learning model to address this problem, including the state-of-the-art convolutional neural networks. We show results of our submissions on the Kaggle website. Walkthrough provided by the Jupyter Notebook.
+
+Link the (ended) competition is below:
 
 https://www.kaggle.com/c/facial-keypoints-detection
